@@ -9,9 +9,9 @@
 ## Tecnologías Favoritas
 
 - HTML, CSS, JavaScript
-- Node.js, Express.js
+- Node.js
 - React, Redux
-- MySQL, MongoDB
+- MySQL
 
 ## Metas
 
