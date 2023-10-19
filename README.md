@@ -13,10 +13,6 @@
 - React, Redux
 - MySQL, MongoDB
 
-## Educación
-
-- Licenciatura en Ciencias de la Computación
-
 ## Metas
 
 Estoy enfocado en aprender nuevas tecnologías y contribuir a proyectos de código abierto. Siempre estoy buscando nuevas oportunidades para crecer como desarrollador.
